@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schannappayya
+- 👋 Hi, I’m Sumohana Channappayya
 - 👀 I’m interested in objective quality assessment algorithms for natural image and video content
 - 🌱 I’m currently learning how to use GitHub!
 - 💞️ I’m looking to collaborate on ...
